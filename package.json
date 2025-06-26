@@ -9,9 +9,12 @@
 		"preview": "vite preview --port 8080"
 	},
 	"devDependencies": {
+		"daisyui": "^5.0.43",
 		"vite": "^6.3.5"
 	},
 	"dependencies": {
-		"big.js": "^7.0.1"
+		"@tailwindcss/vite": "^4.1.11",
+		"big.js": "^7.0.1",
+		"tailwindcss": "^4.1.11"
 	}
 }
