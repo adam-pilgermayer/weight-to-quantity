@@ -1,0 +1,17 @@
+{
+	"name": "weighttoquantity",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite --force --host",
+		"build": "vite build",
+		"preview": "vite preview --port 8080"
+	},
+	"devDependencies": {
+		"vite": "^6.3.5"
+	},
+	"dependencies": {
+		"big.js": "^7.0.1"
+	}
+}
